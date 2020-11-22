@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Justin. 👋
+
+I'm a full-stack developer working at [Hounder](https://github.com/Hounder-Co).
+
+## Hobbies
+
+- ✍️ Writing
+- 📚 Reading
+- 👨‍💻 Coding
+- ☕ Coffee
 
 <!--
 **justinhough/justinhough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
