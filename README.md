@@ -9,6 +9,8 @@ I'm a full-stack developer working at [Hounder](https://github.com/Hounder-Co).
 - 👨‍💻 Coding
 - ☕ Coffee
 
+[![justinhough github stats](https://github-readme-stats.vercel.app/api?username=justinhough&show_icons=true&count_private=true&theme=github_dark)]()
+
 <!--
 **justinhough/justinhough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
