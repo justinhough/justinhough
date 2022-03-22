@@ -2,6 +2,8 @@
 
 I'm a full-stack developer working at [Hounder](https://github.com/Hounder-Co).
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,js,html,css,sass,cloudflare,docker,figma,git,mysql,nodejs,php,laravel,wordpress)](https://justinhough.com)
+
 ## Hobbies
 
 - ✍️ Writing
