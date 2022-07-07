@@ -11,6 +11,11 @@ I'm a full-stack developer working at [Hounder](https://github.com/Hounder-Co).
 - 👨‍💻 Coding
 - ☕ Coffee
 
+## Stats
+
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinhough&count_private=true&theme=merko)
+
+
 <!--
 [![justinhough github stats](https://github-readme-stats.vercel.app/api?username=justinhough&show_icons=true&count_private=true&theme=github_dark)]()
 
