@@ -15,8 +15,7 @@ I'm a full-stack developer working at [Hounder](https://github.com/Hounder-Co).
 
 ## Stats
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinhough&count_private=true&theme=merko)
-
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinhough&count_private=true&include_all_commits=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinhough&layout=donut&theme=radical)
 
 <!--
 [![justinhough github stats](https://github-readme-stats.vercel.app/api?username=justinhough&show_icons=true&count_private=true&theme=github_dark)]()
