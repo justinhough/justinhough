@@ -2,7 +2,7 @@
 
 I'm a full-stack developer working at [Hounder](https://github.com/Hounder-Co).
 
-[![My Skills]([https://skillicons.dev/icons?i=vscode,bash,js,html,css,sass,cloudflare,docker,figma,git,mysql,nodejs,php,laravel,wordpress](https://skillicons.dev/icons?i=apple,windows,ubuntu,linux,vscode,bash,md,php,laravel,js,html,css,tailwind,sass,alpinejs,vite,figma,ps,git,github,mysql,planetscale,sqlite,nodejs,npm,gulp,wordpress,docker,cloudflare,aws,nginx,postman,raspberrypi))](https://justinhough.com)
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,js,html,css,sass,cloudflare,docker,figma,git,mysql,nodejs,php,laravel,wordpress)](https://justinhough.com)
 
 ## Hobbies
 
